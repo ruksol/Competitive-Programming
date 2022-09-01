@@ -8,5 +8,5 @@ int main(){
     cin>>a;
     cout<<"Enter board width: ";
     cin>>b;
-    cout<<"The number of maximum doiminos that fit are: "<<(a*b)/2;
+    cout<<(a*b)/2;
 }
