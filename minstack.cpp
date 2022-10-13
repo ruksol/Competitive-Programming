@@ -1,4 +1,4 @@
-//question link:
+//question link: https://leetcode.com/problems/min-stack/
 
 class MinStack {
 public:
